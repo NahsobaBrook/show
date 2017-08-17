@@ -155,7 +155,7 @@
 			
 			<div class="right-avg">
 				<a href="#title"><div class="btn" style="display: block;margin-bottom: 2em;">发帖</div></a> 
-				<div class="btn topp" style="display: block;">顶部</div>
+				<div class="btn topp" style="display: block;">顶部(我就是测试下)</div>
 			</div>
 
 		<div id="top" class="container-fluid" style="height: 64px; background: black;">
