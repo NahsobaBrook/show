@@ -18,10 +18,11 @@
   	<link href="${pageContext.request.contextPath }/static/jquery-image-cut/dist/cropper.css" rel="stylesheet">
   	<link href="${pageContext.request.contextPath }/static/jquery-image-cut/css/main.css" rel="stylesheet">
  <style type="text/css">
- 
+ 	
  	body{
  	margin: 0;
  	padding: 0;
+ 	
  	}
  	
  	#shade{
@@ -196,6 +197,7 @@
  </style>
 </head>
 <body>
+<p>测试一下这个界面看看是怎么回事~   简直了,为什么倒下来是各种报错.</p>
 			<c:if test="${empty customer}">
 				<% response.sendRedirect("/login.jsp");%>
 			</c:if>
